@@ -83,6 +83,8 @@ footer {background-color: #25a2c3;
 footer li::marker {
             color: #25a2c3;
                       }
+footer ul {display:inline-block;
+text-align:left;}
 h5 {font-size: 2em;
             font-weight: bold;
             padding: 1em;}
