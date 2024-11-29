@@ -28,16 +28,7 @@ h2 {font-family: "Montserrat", sans-serif;
     font-weight: bold;
     color: white;
     font-size: 2em;}
-#arancione span {font-size: smaller;
-}
-#arancione {background-color: #f04c2f;
-    padding: 2em;
-    color: white;
-    margin-top: 2em;}
-#italic {font-style: italic;
-    padding: 2em 0em;
-}
-#arancione b { font-weight: bold;}
+
 #black {background-color: black;}
 #banner {background-image: url(banner.jpg);
     background-size: cover;
@@ -60,6 +51,15 @@ button span {font-weight: bold;
     margin-right: auto;
     max-width: 70%;
     height: auto;}
+#arancione span {font-size: smaller;
+    }
+#arancione {background-color: #f04c2f;
+        padding: 2em;
+        color: white;
+        margin-top: 2em;}
+#italic {font-style: italic;
+        padding: 2em 0em;
+    }
 nav  div {padding: 2em;
 box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 margin: 2em;
@@ -70,6 +70,8 @@ nav img {
     margin-left: auto;
     margin-right: auto;
   }
+
+  #arancione b { font-weight: bold;}
 header p {padding: 1em 3em;}
 footer {background-color: #25a2c3;
     color:  white;

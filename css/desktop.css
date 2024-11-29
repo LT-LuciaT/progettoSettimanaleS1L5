@@ -1,0 +1,103 @@
+body {font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1.2rem;
+    line-height: 1.65;}
+.headings {font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 0.5em;
+    color: #25a2c3;
+    font-weight: bold;
+    line-height: 1.5;
+    }
+header img {padding: 1em;
+        display: block;
+        width: 7em;
+        height: auto;}
+h1 {font-size: 2.5em;
+        }
+h2 {font-family: "Montserrat", sans-serif;
+        font-weight: bold;
+        color: white;
+        font-size: 2em;
+    } 
+#black {background-color: black;}
+#banner {background-image: url(banner.jpg);
+        background-size: cover;
+        padding: 2em 0em; 
+    } 
+header {text-align: center;}
+button {margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #f04c2f;
+    border-radius: 4px;
+    border-color:#f04c2f;
+    }
+button span {font-weight: bold;
+        color: white;
+        padding-left: 1em;
+        padding-right: 1em;}
+#cerchio { padding: 0em 4em;
+            border-radius: 50%;
+            margin-top: 5em;
+            margin-left: 20%;
+            margin-right: auto;
+            margin-bottom: 5em;
+            max-width: 70%;
+            height: auto;
+            float: left;}
+section {padding: 5em 3em;
+            margin-right: 20%;
+            margin-left:auto;
+            }
+#arancione span {font-size: smaller;
+            }
+#arancione {background-color: #f04c2f;
+                padding: 2em;
+                color: white;
+                margin-top: 8em;
+            text-align: center;
+            margin-top: 10em;
+            margin-bottom: 5em;}
+#italic {font-style: italic;
+                padding: 2em 0em;
+            }
+nav  div {
+                box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                display: inline-block;
+                width: 20%;
+                margin: 4em 0em;
+                text-align: center;
+                padding-bottom: 2em;
+                }
+nav img {max-width: 100%;
+                height: auto;
+                margin-left: auto;
+                margin-right: auto;
+                  ; }
+footer {background-color: #25a2c3;
+                    color:  white;
+                    padding: 1em;
+                text-align: center;
+            margin-top: 40em;}
+footer li::marker {
+            color: #25a2c3;
+                      }
+h5 {font-size: 2em;
+            font-weight: bold;
+            padding: 1em;}
+a {color: white;}
+footer ul {padding: 1em;}
+footer p {padding: 1em 1em 2em 1em;}
+hr {width: 20%;
+            color: white;}
+.pc {margin-left: 20em;
+margin-right: auto;
+float: left;}
+.impara { margin-left: 4em;
+margin-right: auto;
+float: left;
+}
+.lavora {margin-left: auto;
+margin-right: 20em;
+float: right;}
